@@ -21,7 +21,7 @@
     $conn = new database();
 
     echo "<h1>Hello World</h1>";
-    echo "<h2>Enter your information:</h2>";
+    echo "<h2>Enter your information::</h2>";
     echo "<table>";
     echo "<form action='?action=display' method='POST'>
             <tr><td><label>First Name:</label></td><td><input type='text' name='fname'></td></tr>
