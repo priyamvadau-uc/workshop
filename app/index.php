@@ -27,7 +27,7 @@
             <tr><td><label>First Name:</label></td><td><input type='text' name='fname'></td></tr>
             <tr><td><label>Last Name:</label></td><td><input type='text' name='lname'></td></tr>
             <tr><td><label>Phone:</label></td><td><input type='tel' name='phone'></td></tr>
-            <tr><td><label>Email Address:</label></td><td><input type='email' name='hiemail'></td></tr>
+            <tr><td><label>Email Address:</label></td><td><input type='email' name='not again'></td></tr>
             <tr><td><label>Email Address:</label></td><td><input type='email' name='new pull requestemail'></td></tr>
             <tr><td><input type='reset'></td><td><input type='submit' value='Submit' name='submit-btn'></td></tr>new pull request
             
